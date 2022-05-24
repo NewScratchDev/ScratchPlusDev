@@ -1,4 +1,5 @@
 # ScratchPlus
+### Данный репозиторий создан для переработки в API wrapper для NewScratch
 ## Что такое ScratchPlus?
 **ScratchPlus** - это библиотека для работы со Scratch Api для Python :snake:.
 ## Что может наш модуль?
